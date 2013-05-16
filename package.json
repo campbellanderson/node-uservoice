@@ -1,0 +1,42 @@
+{
+    "name": "uservoice",
+    "description": "Easy integration with Uservoice",
+    "version": "0.3.0",
+    "homepage": "https://github.com/campbellanderson/node-uservoice",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/campbellanderson/node-uservoice.git"
+    },
+    "author": {
+        "name": "Campbell Anderson",
+        "url": "http://pxldepth.com"
+    },
+    "contributors": [
+        {
+            "name": "Campbell Anderson",
+            "email": "campbell@pxldepth.com",
+            "url": "http://www.pxldepth.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "keywords": ["uservoice", "api", "oauth"],
+    "main": "index",
+    "dependencies": {
+        "oauth": ">=0.9.0"
+    },
+    "engines": {
+        "node": ">= 0.6.x"
+    },
+    "devDependencies": {
+        "mocha": "1.0.x"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "readmeFilename": "README.md",
+    "_id": "uservoice@0.3.0"
+}
