@@ -27,7 +27,7 @@
     "main": "index",
     "dependencies": {
         "oauth": ">=0.9.0",
-        "util": ">=0.10.6" 
+        "util": ">=0.4.9" 
     },
     "engines": {
         "node": ">= 0.6.x"
