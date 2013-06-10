@@ -1,0 +1,6 @@
+.DS_Store
+.hg
+.svn
+CVS
+.idea
+.bin
