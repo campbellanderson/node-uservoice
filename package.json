@@ -1,7 +1,7 @@
 {
     "name": "uservoice",
     "description": "Easy integration with Uservoice",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "homepage": "https://github.com/campbellanderson/node-uservoice",
     "repository": {
         "type": "git",
@@ -33,7 +33,8 @@
         "node": ">= 0.6.x"
     },
     "devDependencies": {
-        "mocha": "1.0.x"
+        "mocha": "1.0.x",
+        "util": ">=0.4.9" 
     },
     "scripts": {
         "test": "mocha"
